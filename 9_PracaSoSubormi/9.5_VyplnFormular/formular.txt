@@ -1,0 +1,11 @@
+--------------------------
+Prihláška na hudobný tábor
+--------------------------
+
+Meno a priezvisko:
+Dátum narodenia:
+Hudobný nástroj:
+adresa:
+telefón:
+E-mail:           
+
